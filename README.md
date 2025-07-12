@@ -4,7 +4,7 @@ Email Me 👉 ✉️ **iamzeus1414@gmail.com** For Collaboration/Project or Anyt
 
 - 🌱 **I’m currently learning:** AOSP,LINUX
 - 📫 **How to reach me:**iamzeus1414@gmail.com
-- ⚡ **Fun fact:**C I am learning things about aosp and i am noob
+- ⚡ **Fun fact:** I am learning things about aosp and i am noob
 - 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 # 📊 GitHub Stats:
