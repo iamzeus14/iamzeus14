@@ -33,7 +33,7 @@ Email Me 👉 ✉️ **iamzeus1414@gmail.com** For Collaboration/Project or Anyt
 
 <h3>🎶 Vibing to</h3>
 
-<a href="https://open.spotify.com/user/6y2iwhip99wg1mgyrl7gyphpq">
+<a href="https://https://open.spotify.com/track/2HJQm4T3Pk2zvxoFhlnGjR?si=7d8bf533b3894bf6">
   <img
     src="https://puresoulkk.pythonanywhere.com?theme=dark&eq_color=rainbow"
     alt="Current Spotify Song"
