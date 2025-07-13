@@ -1,3 +1,4 @@
+
 # 💫 Hi 👋, I'm Vansh Singh
 
 Email Me 👉 ✉️ **iamzeus1414@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -30,6 +31,18 @@ Email Me 👉 ✉️ **iamzeus1414@gmail.com** For Collaboration/Project or Anyt
 ---
 [![](https://visitcount.itsvg.in/api?id=iamzeus14&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<h3>🎶 Vibing to</h3>
+
+<a href="https://open.spotify.com/user/6y2iwhip99wg1mgyrl7gyphpq">
+  <img
+    src="https://puresoulkk.pythonanywhere.com?theme=dark&eq_color=rainbow"
+    alt="Current Spotify Song"
+  />
+</a>
+
+<hr>
+
+![counter](https://count.getloli.com/get/@iamzeus14?theme=rule34)
 <!-- Proudly created with GPRM 
 ### 🎶 Vibing To
 
