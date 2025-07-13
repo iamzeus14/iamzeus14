@@ -30,4 +30,22 @@ Email Me 👉 ✉️ **iamzeus1414@gmail.com** For Collaboration/Project or Anyt
 ---
 [![](https://visitcount.itsvg.in/api?id=iamzeus14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM 
+### 🎶 Vibing To
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_UID&cover_image=true&theme=novatorem)](https://open.spotify.com/user/YOUR_UID)
+
+---
+
+### 👾 Stats Squad
+
+<p align="center">
+  <img src="https://your-host.com/char_0.png" width="40">
+  <img src="https://your-host.com/char_0.png" width="40">
+  <img src="https://your-host.com/char_0.png" width="40">
+  <img src="https://your-host.com/char_0.png" width="40">
+  <img src="https://your-host.com/char_0.png" width="40">
+  <img src="https://your-host.com/char_5.png" width="40">
+  <img src="https://your-host.com/char_cash.png" width="40">
+</p>
+( https://gprm.itsvg.in ) -->
