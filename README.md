@@ -43,22 +43,3 @@ Email Me 👉 ✉️ **iamzeus1414@gmail.com** For Collaboration/Project or Anyt
 <hr>
 
 ![counter](https://count.getloli.com/get/@iamzeus14?theme=rule34)
-<!-- Proudly created with GPRM 
-### 🎶 Vibing To
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_UID&cover_image=true&theme=novatorem)](https://open.spotify.com/user/YOUR_UID)
-
----
-
-### 👾 Stats Squad
-
-<p align="center">
-  <img src="https://your-host.com/char_0.png" width="40">
-  <img src="https://your-host.com/char_0.png" width="40">
-  <img src="https://your-host.com/char_0.png" width="40">
-  <img src="https://your-host.com/char_0.png" width="40">
-  <img src="https://your-host.com/char_0.png" width="40">
-  <img src="https://your-host.com/char_5.png" width="40">
-  <img src="https://your-host.com/char_cash.png" width="40">
-</p>
-( https://gprm.itsvg.in ) -->
