@@ -20,7 +20,6 @@ Email Me 👉 ✉️ **iamzeus1414@gmail.com** For Collaboration/Project or Anyt
 </div>
 
 ## 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=iamzeus14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
@@ -36,7 +35,7 @@ Email Me 👉 ✉️ **iamzeus1414@gmail.com** For Collaboration/Project or Anyt
 
 <a href="https://open.spotify.com/track/3kkzxOZJV9b77So9OYDSD3?si=9276a5ac59a1487d">
   <img
-    src="https://puresoulkk.pythonanywhere.com?theme=dark&eq_color=rainbow"
+    src="https://iamzeus14.pythonanywhere.com?theme=dark&eq_color=rainbow"
     alt="Current Spotify Song"
   />
 </a>
