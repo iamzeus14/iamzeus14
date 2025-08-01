@@ -1,7 +1,6 @@
 
 # 💫 Hi 👋, I'm Vansh Singh
 
-Email Me 👉 ✉️ **iamzeus1414@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** AOSP,LINUX
 - ⚡ **Fun fact:** I am learning things about aosp and i am noob
