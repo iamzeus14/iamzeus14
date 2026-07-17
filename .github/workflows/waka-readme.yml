@@ -1,4 +1,4 @@
-name: Waka Readme
+Name: Waka Readme
 
 on:
   schedule:
@@ -21,4 +21,5 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-
+          COMMIT_NAME: "Z E U S B O T"
+          COMMIT_EMAIL: "zeusbot@atomicmail.io"
