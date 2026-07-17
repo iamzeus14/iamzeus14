@@ -1,4 +1,4 @@
-💫 Hi 👋, I'm Z E U S
+# 💫 Hi 👋, I'm Z E U S
 
 
 - 🌱 **I’m currently learning:** AOSP,LINUX
