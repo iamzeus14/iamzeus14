@@ -34,7 +34,7 @@ I enjoy understanding systems deeply, breaking things, fixing them, and learning
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 894.0 kB Used in GitHub's Storage 
  > 
 > 🏆 19 Contributions in the Year 2026
  > 
@@ -42,7 +42,7 @@ I enjoy understanding systems deeply, breaking things, fixing them, and learning
  > 
 > 📜 11 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -84,7 +84,7 @@ Linux                    48 mins             ███████████�
 ```
 
 
- Last Updated on 08/01/2026 14:54:15 UTC
+ Last Updated on 08/01/2026 16:08:34 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
