@@ -28,13 +28,15 @@ I enjoy understanding systems deeply, breaking things, fixing them, and learning
 ### What I've done so far
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-397.25%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,8 +44,44 @@ I enjoy understanding systems deeply, breaking things, fixing them, and learning
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 04/01/2026 01:09:03 UTC
+```text
+🌞 Morning                583 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+🌆 Daytime                1206 commits        █████████░░░░░░░░░░░░░░░░   35.82 % 
+🌃 Evening                1411 commits        ██████████░░░░░░░░░░░░░░░   41.91 % 
+🌙 Night                  167 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   779 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Tuesday                  553 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Wednesday                486 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Thursday                 673 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Friday                   273 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Saturday                 324 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Sunday                   279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 05/01/2026 01:08:08 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
