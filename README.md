@@ -44,8 +44,44 @@ I enjoy understanding systems deeply, breaking things, fixing them, and learning
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 04/06/2026 04:50:59 UTC
+```text
+🌞 Morning                1187 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+🌆 Daytime                2454 commits        █████████░░░░░░░░░░░░░░░░   35.78 % 
+🌃 Evening                2882 commits        ███████████░░░░░░░░░░░░░░   42.02 % 
+🌙 Night                  336 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1568 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Tuesday                  1122 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Wednesday                1002 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Thursday                 1369 commits        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Friday                   544 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Saturday                 654 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Sunday                   600 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 05/06/2026 04:25:51 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
