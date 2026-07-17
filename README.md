@@ -1,31 +1,39 @@
-# 💫 Hi 👋, I'm Z E U S
+<h1 align="center"><hr>Hello, I'm Z E U S<hr></h1>
 
+### About Me
 
-- 🌱 **I’m currently learning:** AOSP,LINUX
-- ⚡ **Fun fact:** I am learning things about aosp and i am noob
- 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamzeus14&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iamzeus14&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamzeus14&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I'm Vansh, a student and a developer who loves learning how things work under the hood.  
+Right now, I'm exploring AOSP, Android ROM development, device trees, kernels, and the full Android build system.
 
-<!-- Snake Game Repo View -->
+I also build Android apps and enjoy learning how to design clean UI, write better code, and understand how everything connects behind the scenes.
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamzeus14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamzeus14&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy understanding systems deeply, breaking things, fixing them, and learning something new every day.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamzeus14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![counter](https://count.getloli.com/get/@iamzeus14?theme=rule34)
+### Things I'm Learning
+
+- **Languages**: `Kotlin`, `HTML`
+- **Android ROM Development**: Build systems, device trees, kernel configs, debugging & optimizing
+- **Android App Development**: Jetpack, Compose basics, UI/UX, and writing clean modern Android code
+
+---
+
+### Reach Me
+<a href="https://telegram.me/iamzeus14"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:iamdrzeus14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
+
+---
+
+### What I've done so far
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<!--
+---
+
+yearly_contributions=true)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=iamzeus14&label=Profile%20Views&color=000000&style=flat">
