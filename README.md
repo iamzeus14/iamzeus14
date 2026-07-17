@@ -86,8 +86,7 @@ No Activity Tracked This Week
 <!--
 ---
 
-yearly_contributions=true)
-
 ---
+-->
 
 <img src="https://komarev.com/ghpvc/?username=iamzeus14&label=Profile%20Views&color=000000&style=flat">
